@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194959098100",
+    "project_id": "final-practical-300af",
+    "storage_bucket": "final-practical-300af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194959098100:android:bcc81817cc71a9cdd3dea1",
+        "android_client_info": {
+          "package_name": "com.example.finalpracticalflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194959098100-mak2ommn6a6r1qb3ntho5jtcpn2gpspq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsc1X4UxCnnFd-KqkdIyHAvTzXWhfmVag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194959098100-mak2ommn6a6r1qb3ntho5jtcpn2gpspq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
